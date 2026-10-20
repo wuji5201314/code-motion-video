@@ -1,0 +1,10 @@
+name: local_code_motion_video
+title: Local code motion video
+description: 'Director-layer workflow for generating motion-graphics video with code: briefing, shot maps, motion language, physics, lighting, beat/SFX sync, and self-review. Use when planning or generating a video via code (Remotion, Manim, or any frame-based renderer), or when a code-generated motion video looks flat and needs art direction.'
+include_in_prompt: true
+availability:
+  confidential_vm: true
+  needs_speech: false
+skill_improvement:
+  managed: true
+  needs_review: true
